@@ -13,3 +13,15 @@ it; developers also have significant responsibilities.
 It's crucial for software engineers to understand the
 importance of building platforms that consider the legal
 and ethical implications of data collection and sharing.
+
+
+## Response from Ziqiu Wang
+
+It is surprising that such violations of the Constitution are not 
+acted upon unless users really take them seriously and file lawsuits, 
+not to mention that users can almost never become aware of such 
+breaches. It seems that information privacy is still a gray area in 
+the field of software engineering, and more policies need to be put 
+in place to ensure proper protection of users' privacy. It is also 
+important for software engineers to think about strategies to 
+protect users' information.
